@@ -1,0 +1,22 @@
+Compile method:
+
+g++ -lrt -lstdc++ hw1.cc -o hw1.o
+
+Run instructions:
+
+Run "./hw1.o" without any options.  All inputs will be taken using scanf after program starts
+running.
+
+***************************************************************************************************
+The following prompt will be given once you execute hw1.o.
+You can use this to insert, delete, search, insert in mass, etc.
+
+You can do the following
+1 - Insert new key
+2 - Delete existing key
+3 - search for existing key
+4 - Insert N number of random keys
+5 - Display tree in inorder traversal
+6 - Display node with key
+0 - exit
+***************************************************************************************************
